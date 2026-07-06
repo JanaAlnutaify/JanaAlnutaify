@@ -18,5 +18,5 @@ I am a Computer Science Graduate from **Qassim University** with a strong founda
 📊 GitHub Stats:
 ----------------
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaAlnutaify&layout=compact&theme=vision-friendly-dark" alt="Jana's Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaAlnutaify&layout=compact&theme=github_dark&cache_seconds=1800" alt="Jana's Top Languages" />
 </p>
