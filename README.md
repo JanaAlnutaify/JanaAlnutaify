@@ -15,8 +15,7 @@ I am a Computer Science Graduate from **Qassim University** with a strong founda
 --------------
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-📊 GitHub Stats:
+📊 GitHub Streak:
 ----------------
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanaAlnutaify&layout=compact&theme=github_dark&cache_seconds=1800" alt="Jana's Top Languages" />
-</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JanaAlnutaify&theme=github-dark)](https://git.io/streak-stats)
