@@ -5,7 +5,6 @@ I am a Computer Science Graduate from **Qassim University** with a strong founda
 * 🎓 **Education:** Bachelor's Degree in Computer Science from **Qassim University**.
 * 🧠 **Core Interests:** Artificial Intelligence, Machine Learning (Clustering/Classification), and Cyber Security.
 * 🛠️ **Systems & Architecture:** Experienced in Systems Programming (Assembly SIC/XE Logic), Computer Networks, and Electrical Circuits.
-* 🚀 **Projects:** Developing smart accessibility solutions for universities.
 
 🌐 Socials:
 ----------
